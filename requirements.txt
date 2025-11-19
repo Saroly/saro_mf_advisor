@@ -1,0 +1,4 @@
+mftool
+google-generativeai
+pandas
+plotly
