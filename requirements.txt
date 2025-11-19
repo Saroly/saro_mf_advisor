@@ -1,4 +1,5 @@
 mftool
+Deprecated
 google-generativeai
 pandas
 plotly
